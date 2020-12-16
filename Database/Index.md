@@ -95,7 +95,13 @@
  
 
  
+### Ref.
+
+ - https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Database#index
  
+ - https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md#index%EB%9E%80
+ 
+ - https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/%5BDB%5D%20Index.md
  
  
  
