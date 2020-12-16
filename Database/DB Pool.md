@@ -48,4 +48,7 @@
  보통 WAS의 Thread 수가 Connection 수 보다 많은 것이 좋은데, 그 이유는 모든 요청이 DB에 접근하는 작업이 아니기 때문이다.
  
  
- 
+- - -
+### Ref.
+
+https://github.com/WeareSoft/tech-interview/blob/master/contents/db.md#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%92%80
