@@ -186,3 +186,11 @@ DBMS는 분할에 대해 각종 기준을 제공하며 분할은 '분할키(part
  - 큰 파티션에 대한 I/O 요처을 여러 parition으로 분산할 ㅅ ㅜ있다.
  
  - Range Paritioning 할 수 있는 Column이 있지만, Paritioning 결과 생성된 Parition이 너무 커서 효과적으로 관리할 수 없을 때 유용
+ 
+- - -
+
+### Ref.
+
+ - https://nesoy.github.io/articles/2018-02/Database-Partitioning
+ 
+ - https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
